@@ -1,4 +1,6 @@
 {
+     "name": "shaheensalhi/doctor-appointment-booking-system",
+    "description": "A simple doctor appointment booking system built with PHP and MySQL",
     "require": {
         "phpmailer/phpmailer": "^6.9"
     }
