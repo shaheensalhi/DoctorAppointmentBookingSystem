@@ -74,8 +74,6 @@
                     "name": "Brent R. Matzelle"
                 }
             ],
-            "name": "shaheensalhi/doctor-appointment-booking-system",
-            "description": "A simple doctor appointment booking system built with PHP and MySQL",
             "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
             "support": {
                 "issues": "https://github.com/PHPMailer/PHPMailer/issues",
